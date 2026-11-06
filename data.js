@@ -11,8 +11,8 @@ const TOKO = {
   whatsapp: "6287880846809",   // 62 + nomor tanpa angka 0 di depan
   alamat: "ITC Mangga Dua Lt.4 Blok C No.33-34",
   jam: "Buka setiap hari, 09.00–18.00 WIB",
-  instagram: "@arabellaofficialll",
-  tiktok: "@arabellaoficialll",
+  instagram: "@arabellafashiondiaries",
+  tiktok: "@arabellafashiondiaries",
   keunggulan: [
     { judul: "Ukuran lengkap", isi: "Tersedia ukuran 35 sampai 43 untuk sebagian besar model." },
     { judul: "Kirim ke seluruh Indonesia", isi: "Dikemas rapi dan dikirim dengan aman." },
