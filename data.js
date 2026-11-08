@@ -10,7 +10,7 @@ const TOKO = {
   sub: "Dari flat untuk kerja sampai heels untuk acara. Pilih ukuranmu, lalu pesan langsung lewat WhatsApp.",
   whatsapp: "6287880846809",   // 62 + nomor tanpa angka 0 di depan
   alamat: "ITC Mangga Dua Lt.4 Blok C No.33-34",
-  jam: "Buka setiap hari, 09.00–18.00 WIB",
+  jam: "Buka setiap hari, 10.00–17.00 WIB",
   instagram: "@arabellafashiondiaries",
   tiktok: "@arabellafashiondiaries",
   keunggulan: [
