@@ -29,6 +29,26 @@ const TOKO = {
    - Untuk menghapus: hapus satu blok.
    - Jangan lupa koma (,) di antara blok. */
 const PRODUK = [
+{ nama: "Arabella-1620 Slip On Leather 3cm", kategori: "Slip On", harga: 545000, hargaCoret: 760000,
+    ukuran: [35,36,37,38,39,40,41], 
+    foto: "images/1620.jpg", warna: "#e9a3a3",
+    varian: [
+      { nama: "Hitam",  warna: "#1a1a1a", foto: "" },
+      { nama: "Ivory",  warna: "#F2EBE2", foto: "" },
+      { nama: "Olive Green", warna: "#808000", foto: "" },
+      { nama: "Mustard Yellow", warna: "E1AD01",},
+      { nama: "Red",  warna: "#FF0000", foto: "" },
+    ] },
+   
+{ nama: "Arabella-5579 Bow Wedge 4cm", kategori: "Wedges", harga: 535000, hargaCoret: 740000,
+    ukuran: [35,36,37,38,39,40,41], 
+    foto: "images/5579.jpg", warna: "#e9a3a3",
+    varian: [
+      { nama: "Hitam",  warna: "#1a1a1a", foto: "" },
+      { nama: "Coklat",  warna: "#8b4a22", foto: "" },
+      { nama: "Hijau", warna: "#667C4D", foto: "" },
+      { nama: "Red",  warna: "#FF0000", foto: "" },
+    ] },
  { nama: "Arabella-2361 Flowers Wedge 4cm ", kategori: "Wedges", harga: 450000, hargaCoret: 532000,
     ukuran: [35,36,37,38,39,40,41], 
     foto: "images/2361.jpg", warna: "#e9a3a3",
